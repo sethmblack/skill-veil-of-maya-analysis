@@ -4,7 +4,7 @@ description: Expose how the principle of individuation - the illusion that we ar
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5263
+  version: 1.0.5264
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
